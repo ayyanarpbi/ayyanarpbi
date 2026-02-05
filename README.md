@@ -1,3 +1,11 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:36BCF7&height=200&section=header" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Power+BI+Developer;DAX+%7C+Power+Query+%7C+SQL;Microsoft+Fabric+%7C+Excel" />
+</p>
+
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I%27m+Niraimadai+Iyyanar;Power+BI+Developer;DAX+%7C+Power+Query+%7C+SQL;Microsoft+Fabric+%7C+Excel" />
 </p>
