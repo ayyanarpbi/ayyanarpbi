@@ -3,10 +3,6 @@
 <!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:8e44ad&height=220&section=header&text=Niraimadai%20Iyyanar&fontSize=42&fontColor=ffffff&fontFamily=Poppins" />
 
-<!-- Name Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=34&pause=1000&color=8E44AD&center=true&vCenter=true&width=600&lines=Niraimadai+Iyyanar" />
-</p>
 
 <!-- Skills -->
 <p align="center">
