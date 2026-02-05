@@ -4,15 +4,15 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
-      srcset="https://capsule-render.vercel.app/api?type=waving&height=220&text=Niraimadai%20Iyyanar&fontSize=42&fontColor=ffffff&fontFamily=Poppins&color=2c3e50,8e44ad" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Niraimadai%20Iyyanar&fontSize=42&fontColor=ffffff&fontFamily=Poppins&color=36bcf7,0e75b6" />
+      srcset="https://capsule-render.vercel.app/api?type=waving&height=220&text=Niraimadai%20iyyanar&fontSize=42&fontColor=ffffff&fontFamily=Poppins&color=2c3e50,8e44ad" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Niraimadai%20iyyanar&fontSize=42&fontColor=ffffff&fontFamily=Poppins&color=36bcf7,0e75b6" />
   </picture>
 </p>
 
 
 <!-- Skills Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Power+BI+Developer;DAX+%7C+Power+Query+%7C+SQL;Microsoft+Fabric+%7C+Excel;Python+%7C+MySQL" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Power+BI+Developer;DAX+%7C+Power+Query+%7C+MySQL;Microsoft+Fabric+%7C+Excel;Azure+%7C+MySQL" />
 </p>
 
 
