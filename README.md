@@ -1,10 +1,18 @@
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:8e44ad&height=220&section=header&text=Niraimadai%20Iyyanar&fontSize=40&fontColor=ffffff" />
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:8e44ad&height=220&section=header&text=Niraimadai%20Iyyanar&fontSize=42&fontColor=ffffff&fontFamily=Poppins" />
 
+<!-- Name Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Power+BI+Developer;DAX+%7C+Power+Query+%7C+SQL;Microsoft+Fabric+%7C+Excel" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=34&pause=1000&color=8E44AD&center=true&vCenter=true&width=600&lines=Niraimadai+Iyyanar" />
 </p>
+
+<!-- Skills -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Inter&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Power+BI+Developer;DAX+%7C+Power+Query+%7C+SQL;Microsoft+Fabric+%7C+Excel" />
+</p>
+
 
 
 # 💫 About Me
