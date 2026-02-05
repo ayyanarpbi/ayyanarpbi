@@ -10,7 +10,11 @@
 
 
 # 💻 Tech Stack:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346.svg?style=plastic&logo=microsoft-excel&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346.svg?style=plastic&logo=microsoft-excel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4.svg?style=plastic&logo=microsoft&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-EE4C2C.svg?style=plastic&logo=powerbi&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-217346.svg?style=plastic&logo=microsoft-excel&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ayyanarpbi&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
