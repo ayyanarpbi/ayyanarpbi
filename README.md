@@ -25,10 +25,10 @@
 
 
 # Tech Skills & Tool:
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-EE4C2C.svg?style=for-the-badge&logo=powerbi&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power_Query-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346.svg?style=plastic&logo=microsoft-excel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4.svg?style=plastic&logo=microsoft&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-EE4C2C.svg?style=plastic&logo=powerbi&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-217346.svg?style=plastic&logo=microsoft-excel&logoColor=white)
 
 
 
