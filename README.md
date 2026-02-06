@@ -19,7 +19,7 @@
 
 
 # About Me
-### Hi, I'm Niraimadai iyyanar <br><br>💼 Power BI Developer with 3.5+ years of experience in building Data-driven dashboards and analytical solutions.<br><br>📊 I specialize in transforming raw data into clear, actionable insights using Excel, Power BI Desktop, DAX, and Power Query, Power BI Service.<br><br>🔹 Skilled in DAX, Power Query, Data Modeling, Data Cleansing, and Performance Optimization  <br>🔹 Experienced in working with real-world business data from Sales, Marketing, and Ecommerce domains  <br>🔹 Strong problem solving with focus on actionable insights<br><br>🚀 I’m always exploring new data techniques, tools, and best practices to enhance business performance.<br><br>📫 Let’s connect:  <br>LinkedIn: www.linkedin.com/in/ayyanar-m  <br>  📧 Email: [ayyanarpbi31@gmail.com](mailto:ayyanarpbi31@gmail.com)
+### Hi, I'm Niraimadai iyyanar <br><br>  Power BI Developer with 3.5+ years of experience in building Data-driven dashboards and analytical solutions.<br><br>  I specialize in transforming raw data into clear, actionable insights using Excel, Power BI Desktop, DAX, and Power Query, Power BI Service.<br><br>🔹 Skilled in DAX, Power Query, Data Modeling, Data Cleansing, and Performance Optimization  <br>🔹 Experienced in working with real-world business data from Sales, Marketing, and Ecommerce domains  <br>🔹 Strong problem solving with focus on actionable insights<br><br>🚀 I’m always exploring new data techniques, tools, and best practices to enhance business performance.<br><br>📫 Let’s connect:  <br>LinkedIn: www.linkedin.com/in/ayyanar-m  <br>  📧 Email: [ayyanarpbi31@gmail.com](mailto:ayyanarpbi31@gmail.com)
 
 
 
