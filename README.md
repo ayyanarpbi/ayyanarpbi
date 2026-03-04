@@ -15,7 +15,7 @@
 # About Me
 ### Hi, I'm Niraimadai Iyyanar  
 
-BI Reporting Analyst with **3.5+ years of experience** in building **business-focused dashboards and reports** that support data-driven decision making.
+Power BI Developer & Reporting Analyst with **3.5+ years of experience** in building **business-focused dashboards and reports** that support data-driven decision making.
 
 I specialize in **analyzing, validating, and presenting data** in a clear and meaningful way using Power BI, SQL, and Excel.  
 My strength lies in converting raw data into **actionable business insights** for stakeholders.
